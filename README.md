@@ -4,5 +4,3 @@ DERBI is a secure protocol that enables interoperability for both public and pri
 
 [Research Paper](http://www.google.com){: .btn}
 [Light Paper](http://www.google.com){: .btn}
-.btn {background-color: #008CBA;} 
-
